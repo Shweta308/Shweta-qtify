@@ -63,3 +63,4 @@ const Card = ({ data, type }) => {
 };
 
 export default Card;
+// redeploy
